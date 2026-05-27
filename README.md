@@ -55,7 +55,7 @@ The project also includes:
 
 ## ERD Diagram
 
-![ERD](Project ERD.drawio.png)
+![ERD](ERD.png)
 
 ## Mapping Diagram
 
