@@ -53,6 +53,14 @@ The project also includes:
 
 ---
 
+## ERD Diagram
+
+![ERD](Project ERD.drawio.png)
+
+## Mapping Diagram
+
+![Mapping](Mapping.drawio.png)
+
 ## Author
 
 Farouk Ahmed
